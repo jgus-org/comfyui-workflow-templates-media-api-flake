@@ -12,13 +12,13 @@
       "locked": {
         "lastModified": 1788638959,
         "narHash": "sha256-0puoD7i2x9/IOtRb29U4L9B9+HI68ErD8hwkN8sqsq8=",
-        "owner": "jgus",
+        "owner": "jgus-org",
         "repo": "flake-lib",
         "rev": "0700b5eb395c26729c0185f501a226ca74fed9e3",
         "type": "github"
       },
       "original": {
-        "owner": "jgus",
+        "owner": "jgus-org",
         "ref": "v1",
         "repo": "flake-lib",
         "type": "github"
