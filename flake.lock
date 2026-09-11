@@ -10,11 +10,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1788638959,
-        "narHash": "sha256-0puoD7i2x9/IOtRb29U4L9B9+HI68ErD8hwkN8sqsq8=",
+        "lastModified": 1789076164,
+        "narHash": "sha256-J1ejsQ8AkC0oRhXWYJO7BkeSiop7t2qovIU2IGUnPmE=",
         "owner": "jgus-org",
         "repo": "flake-lib",
-        "rev": "0700b5eb395c26729c0185f501a226ca74fed9e3",
+        "rev": "65799267ab37656b9a92af28c50675768a4a052b",
         "type": "github"
       },
       "original": {
@@ -44,11 +44,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1789012029,
-        "narHash": "sha256-1CBkBf+Nhggykzlx0jvXrj5rk20btl+tK8Fa8Ml/BL4=",
+        "lastModified": 1789073787,
+        "narHash": "sha256-xfX/toC2QV707s06GbP4II/TxYF0fNQj7s5/LClNDKc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "d5dfd8e6716dde34398bc14bc87c10dece9c8c68",
+        "rev": "aff8a0b28396750446e5537a96461bc4facdb287",
         "type": "github"
       },
       "original": {
